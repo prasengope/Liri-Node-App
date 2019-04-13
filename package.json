@@ -1,0 +1,20 @@
+{
+  "name": "Liri-Node-App",
+  "version": "1.0.0",
+  "description": "This app is going to search for song, movie and bands' schedules using Node.js",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasengope/Liri-Node-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasengope/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/prasengope/Liri-Node-App#readme"
+}
