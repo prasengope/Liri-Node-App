@@ -19,11 +19,19 @@ function myMovies(userInput) {
         movie = 'Mr. Nobody';
     }
 
-    var url = 'https://www.omdbapi.com/?t=' + movie + '&y=&plot=short&apikey=' + keys.omdb.id;
+    var url = 'https://www.omdbapi.com/?t=' + movie + '&y=&plot=short&apikey=trilogy';
 
     axios.get(url).then(function (response) {
-        console.log("The movie's rating is: " + response.data.imdbRating);
-        console.log('The movie you searched for: ' + movie);
+        console.log("\n************************************************");
+        console.log("Ttile: " + response.data.Title);
+        console.log("Year Released: " + response.data.Year);
+        console.log("IMDB Rating: " + response.data.imdbRating);
+        console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
+        console.log("Country: " + response.data.Country);
+        console.log("Language: " + response.data.Language);
+        console.log("Plot: " + response.data.Plot);
+        console.log("Actors: " + response.data.Actors);
+        console.log("***************************************************\n");
     },
 
         function (error) {
