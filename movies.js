@@ -1,6 +1,3 @@
-//checking movies.js connection
-// console.log("movies.js is connected!")
-
 //requiring key.js
 var keys = require("./keys.js");
 

@@ -1,6 +1,3 @@
-//checking spotify.js connection
-// console.log('Spotify.js is connected!');
-
 //requiring key.js
 var keys = require('./keys.js');
 

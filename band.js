@@ -1,6 +1,3 @@
-//checking movies.js connection
-// console.log('band.js is connected!');
-
 //requiring key.js
 var keys = require('./keys.js');
 
