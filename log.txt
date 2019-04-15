@@ -1,0 +1,78 @@
+
+****************************************
+Song Search Log:
+Song Name: I Want It That Way
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a30ffdd2fdb64148925391369480aaee
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/17/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/19/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/20/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/24/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Planet Hollywood Resort & Casino	- Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/26/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Zappos Theater at Planet Hollywood
+Location: Las Vegas, NV, United States
+Date: 04/27/2019, 9:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Altice Arena
+Location: Lisbon, , Portugal
+Date: 05/11/2019, 7:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Wizink Arena
+Location: Madrid, , Spain
+Date: 05/13/2019, 7:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Forum 
+Location: Milan, , Italy
+Date: 05/15/2019, 7:00 PM
+****************************************
+
+****************************************
+Concert Search Log:
+Venue: Palau San Jordi
+Location: Barcelona, , Spain
+Date: 05/17/2019, 7:00 PM
+****************************************
