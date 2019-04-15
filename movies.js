@@ -1,3 +1,6 @@
+//checking movies.js connection
+console.log("movies.js is connected!")
+
 //requiring key.js
 var keys = require("./keys.js");
 
@@ -7,10 +10,7 @@ var fs = require("fs");
 //requiring axios
 var axios = require("axios");
 
-console.log("movies.js is connected!")
-
-
-
+//myMovies function to search for movies and console.logging relevant information
 function myMovies(userInput) {
     var movie = userInput;
     if (!movie) {
@@ -19,7 +19,7 @@ function myMovies(userInput) {
         movie = 'Mr. Nobody';
     }
 
-    var url = 'https://www.omdbapi.com/?t=' + movie + '&y=&plot=short&apikey=trilogy';
+    var url = 'https://www.omdbapi.com/?t=' + movie + '&y=&plot=short&apikey=' + keys.omdb.id;
 
     axios.get(url).then(function (response) {
         console.log("\n************************************************");
